@@ -15,13 +15,13 @@ class Person
 	}
 }
 
-class Student1 extends Person
+class Student extends Person
 {
 	String course;
 	int roll;
 	int marks;
 	
-	public Student1(String n, int a, String c, int r, int m) 
+	public Student(String n, int a, String c, int r, int m) 
 	{
 		super(n,a);
 		this.course=c;
@@ -62,7 +62,7 @@ public class Q5
 {
 	public static void main(String[] args) 
 	{
-		Student1 s = new Student1("ABC", 20, "DSA", 15, 90);
+		Student s = new Student1("ABC", 20, "DSA", 15, 90);
 		Teacher t = new Teacher("XYZ", 35, "IGT", 2);
 		System.out.println("***Student Details***");
 		s.display();
