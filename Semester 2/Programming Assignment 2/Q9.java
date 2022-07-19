@@ -1,4 +1,4 @@
-import e_sports.Sports;
+import e_sports.Sports;		// This 'Sports' interface file in e_sports package which you can find from Sports.java file.
 import java.util.Scanner;
 class Student2 implements Sports
 {
