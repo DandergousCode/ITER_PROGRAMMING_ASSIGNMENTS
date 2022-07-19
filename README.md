@@ -4,6 +4,6 @@
   <img src="https://4.bp.blogspot.com/-CuKs5SVoG7U/WwfewiMthdI/AAAAAAAADiY/wAGvEWEQtHEdCsBsn4CEOM9NogHhbwgzACLcBGAs/s1600/ITER.jpg" style="width:100%;">
   <div class="content">
     <h2>Details<h2>
-    <p font="5">Students of ITER can access programming assignments as per semester-wise</p>
+    <p font=5>Students of ITER can access programming assignments as per semester-wise</p>
   </div>
 </div>
