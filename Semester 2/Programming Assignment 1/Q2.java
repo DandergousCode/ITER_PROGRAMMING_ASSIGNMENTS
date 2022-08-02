@@ -14,15 +14,17 @@ public class Q2
 		System.out.print("Enter the number : ");
 		int n = sc.nextInt();
 		
-		if (n<2)
+		if (n<=0)
+		{
+			System.out.println("Invalid Input!");
+		}
+		
+		else if (n<2)
 		{
 			count=n;
 			System.out.println("The no. of division of this digit is "+count+" times");
 		}
-		else if (n<=0)
-		{
-			System.out.println("Invalid Input!");
-		}
+
 		while (n>2)
 		{
 			n = n/2;
