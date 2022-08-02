@@ -22,7 +22,7 @@ class Student
 	{
 		System.out.println("NAME : "+name);
 		if (mark<=100)
-			System.out.println("MARKS : "+mark+" out of 100");
+			System.out.println("\nMARKS : "+mark+" out of 100");
 		else
 			System.out.println("INVALID MARKS INPUT!");
 	}
