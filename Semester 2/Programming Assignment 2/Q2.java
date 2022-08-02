@@ -9,7 +9,7 @@ class Complex
 	{
 		System.out.print("Enter a real number : ");
 		real = sc.nextDouble();
-		System.out.print("Enter a imaginary number : ");
+		System.out.print("Enter an imaginary number : ");
 		imag = sc.nextDouble();
 	}
 	public Complex add(Complex a, Complex b)
