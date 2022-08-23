@@ -17,7 +17,6 @@ public class Q11
         }
         int SUM2 = (int)Math.pow(sum2, 2);
         System.out.println("The square of the sum of the first ten natural numbers is: "+SUM2);
-
         System.out.println("Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is "+SUM2+"-"+sum1+" = "+(SUM2-sum1));
     }
 }
